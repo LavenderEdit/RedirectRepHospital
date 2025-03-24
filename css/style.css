@@ -1,0 +1,24 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to top left, #28b487, #7dd56f);
+    font-family: sans-serif;
+    overflow: hidden;
+}
+
+.container {
+    line-height: 1.3;
+    width: 100%;
+    padding: 30px;
+    text-align: center;
+    color: white;
+}
+
+.container h1 {
+    font-size: 50px;
+}
+
+.container i {
+    font-size: 50px;
+}
